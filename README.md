@@ -53,15 +53,3 @@
 <div align="center">
   <img src="img/gif.gif" style="width: 100%;">
 </div>
-  
-  
-  
-  
-<br>
-  
-  
-  
-  
-<h2 style="border: none; font-weight: bold;">My Skills</h2>
-
-<img src="img/progress-bar.png" style="width: 100%;">
