@@ -11,7 +11,7 @@
 <h2 style="border: none; font-weight: bold;">Links</h2>
   
 <div align="left">
-    <a href="https://linktr.ee/dakshkishore">Social Sites / Portfolio</a>
+    <a href="https://linktr.ee/dakshkishore" target="blank">Linktree website</a>
 </div>
   
   
