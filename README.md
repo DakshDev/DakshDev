@@ -10,7 +10,7 @@
   
 <h2 style="border: none; font-weight: bold;">Links</h2>
   
-<div align="center">
+<div align="left">
     <a href="https://linktr.ee/dakshkishore">Social Sites / Portfolio</a>
 </div>
   
