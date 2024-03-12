@@ -8,16 +8,10 @@
   
   
   
-<h2 style="border: none; font-weight: bold;">My Social Sites</h2>
+<h2 style="border: none; font-weight: bold;">Links</h2>
   
 <div align="center">
-    <a href="https://youtube.com/@CodeGoz?si=23j8mtlISSiXV17l"><img src="img/youtube.png" targer="_blank" style="width: 12%; border-radius: 5px;"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/dakshkishore99/"><img src="img/instagram.png" targer="_blank" style="width: 12%; border-radius: 5px;"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=100093212614483"><img src="img/facebook.png" targer="_blank" style="width: 12%; border-radius: 5px;"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/DakshKishore99"><img src="img/twitter.png" targer="_blank" style="width: 12%; border-radius: 5px;"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/daksh-kishore-474b7b281/"><img src="img/linkedin.png" targer="_blank" style="width: 12%; border-radius: 5px;"></a>&nbsp;&nbsp;
-    <a href="https://github.com/DakshDev"><img src="img/github.png" targer="_blank" style="width: 12%; border-radius: 5px;"></a>&nbsp;&nbsp;
-    <a href=""><img src="img/raplit.png" targer="_blank" style="width: 12%; border-radius: 5px;"></a>
+    <a href="https://linktr.ee/dakshkishore">Social Sites / Portfolio</a>
 </div>
   
   
