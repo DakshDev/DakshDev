@@ -79,5 +79,5 @@
   
   
 <div align="center">
-  <img src="img/gif.gif" style="width: 50%;">
+  <img src="img/gif.gif" style="width: 90%;">
 </div>
