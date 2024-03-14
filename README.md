@@ -4,10 +4,11 @@
   
   
   
-<h2 style="border: none; font-weight: bold;">Links</h2>
+<h2 style="border: none; font-weight: bold;">How To Reach Me</h2>
   
 <div align="left">
-    <a href="https://linktr.ee/dakshkishore" target="blank">Linktree website</a>
+    <a href="https://linktr.ee/dakshkishore"">Linktree website</a>
+    <p>dakshkishore88@gmail.com</p>
 </div>
 <br>
 
