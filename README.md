@@ -1,8 +1,4 @@
 <h1 align="center">Hi,👋 Welcome My Github Profile.</h1>
-
-
-
-
 <br>
   
   
@@ -13,10 +9,6 @@
 <div align="left">
     <a href="https://linktr.ee/dakshkishore" target="blank">Linktree website</a>
 </div>
-  
-  
-  
-  
 <br>
 
 
@@ -42,14 +34,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
-
-
-<img src="https://raw.githubusercontent.com/dakshdev/dakshdev/output/snake.svg" alt="Snake animation" />
-
-
-
-
 <br>
 
 
@@ -57,9 +41,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-
-
 <br>
   
   
@@ -77,11 +58,7 @@
 
 >You can visit Repositry for my projects. I am eager to face new challenges and seek opportunities to contribute to new endeavors.
 
-</div>
-  
-  
-
-      
+</div>  
 <br>
 
   
