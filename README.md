@@ -7,9 +7,11 @@
 <h2 style="border: none; font-weight: bold;">How To Reach Me</h2>
   
 <div align="left">
+  
 * <a href="https://linktr.ee/dakshkishore"">Linktree website</a>
 
 * <p>dakshkishore88@gmail.com</p>
+
 </div>
 <br>
 
