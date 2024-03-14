@@ -62,10 +62,3 @@
 
 </div>  
 <br>
-
-  
-  
-  
-<div align="center">
-  <img src="img/gif.gif" style="width: 50%;">
-</div>
