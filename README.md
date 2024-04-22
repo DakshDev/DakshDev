@@ -58,7 +58,28 @@
 
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DakshDev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
-<br>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DakshDev&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshDev&radius=10&theme=dracula&area=true&order=5&hide_border=true&hide_title=true&bg_color=282A36&color=ffffff&line=FF6E96&point=79DAFA" height="200" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DakshDev/count.svg?"  />
+</div>
+
+###
