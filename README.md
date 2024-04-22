@@ -8,7 +8,7 @@
   
 <div>
 
->Hello! My name is Daksh Kishore, I reside in Pakistan. I am professional and experienced web developer, for the past few years. I am dedicated to creating stunning, functional, and user-friendly websites..
+>Hello! My name is Daksh Kishore, I reside in Pakistan. I am professional and experienced web developer, for the past few years. I am dedicated to creating stunning, functional, and user-friendly websites.
   
 >I began my journey in the field of web development, and since then, I have been advancing while building new knowledge and skills in it. For me, each project is a new opportunity to face new challenges, find new solutions, and learn a new.
   
