@@ -59,6 +59,7 @@
 
 
 
+<h2 align="left">My analytics</h2>
 <br clear="both">
 
 <div align="center">
