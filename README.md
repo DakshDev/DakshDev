@@ -62,9 +62,3 @@
 
 </div>  
 <br>
-
-
-
-<div align="center">
-  <img src="img/snake.gif" width="90%" alt="Snake Gif"/>
-</div>
