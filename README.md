@@ -35,7 +35,7 @@
 
 
 <h2 align="left">My Skills</h2>
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
