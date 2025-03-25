@@ -1,4 +1,4 @@
-<h1 align="center">Hi,👋 Welcome My Github Profile.</h1>
+<h1 align="center">Hi,👋 Welcome To My Github Profile.</h1>
 <br>
 
 
@@ -8,13 +8,11 @@
   
 <div>
 
->Hello! My name is Daksh Kishore, I reside in Pakistan. I am professional and experienced web developer, for the past few years. I am dedicated to creating stunning, functional, and user-friendly websites.
+>Hello! My name is Daksh Kishore, I reside in Pakistan. A professional and experienced web developer, for the past 3+ years. I am dedicated to creating stunning, functional, and user-friendly websites.
   
->I began my journey in the field of web development, and since then, I have been advancing while building new knowledge and skills in it. For me, each project is a new opportunity to face new challenges, find new solutions, and learn a new.
+>I began my journey in the field of web development, and since then, I have been advancing while building new knowledge and skills on it. For me, each project is a new opportunity to face new challenges, find new solutions, and learn a new.
   
 >I believe that the combination of technology's power and creativity is what gives birth to a strong website or web application. I am interested in understanding new trends in it and incorporating them into my projects.
-
->You can visit Repositry for my projects. I am eager to face new challenges and seek opportunities to contribute to new endeavors.
 
 </div>  
 <br>
