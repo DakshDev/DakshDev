@@ -23,7 +23,7 @@
 <h2 style="border: none; font-weight: bold;">How To Reach Me</h2>
   
 <div align="left">
-<a href="https://linktr.ee/dakshkishore"">Linktree</a>
+<a href="https://linktr.ee/SyncCoder">Linktree</a>
   
 * <p>dakshkishore99@outlook.com</p>
 </div>
@@ -51,8 +51,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img width="10" />
