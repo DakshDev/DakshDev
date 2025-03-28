@@ -1,12 +1,18 @@
 <br clear="both">
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/DakshDev/DakshDev/refs/heads/main/Profile%201.jpg"  />
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/DakshDev/DakshDev/refs/heads/main/Profile%201.jpg"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <h1 align="left">@Daksh Kishore</h1>
 
 ###
+
+<br clear="both">
 
 <h4 align="left">Hello! My name is Daksh Kishore,<br>I reside in Pakistan. A professional and experienced full stack developer, for the past 3+ years.</h4>
 
