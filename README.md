@@ -24,6 +24,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left"># My Stacks</h2>
 
 ###
@@ -54,6 +56,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left"># My Socials</h2>
 
 ###
@@ -75,6 +79,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left"># My analytics</h2>
 
