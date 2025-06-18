@@ -4,7 +4,13 @@
 
 
 <h2 align="left"># About Me</h2>
-<p align="left">As a skilled Full-Stack Developer, I specialize in both front-end and back-end technologies, enabling me to create seamless and dynamic web applications. My expertise spans a range of modern development tools and frameworks, including HTML, CSS, and JavaScript for building responsive user interfaces. I am proficient in using Tailwind CSS for efficient styling, Node.js and Express for server-side development, and NPM for managing packages and dependencies. Additionally, I have experience working with Vite and PostCSS to optimize build processes. I am also well-versed in Git for version control, ensuring efficient project management.. With a strong foundation in both front-end and back-end development</p>
+<p align="left">Passionate and self-taught Web Developer with advanced skills in frontend and
+backend development, along with experience using Firebase as a database.
+Experienced in building real-world projects like an Employee Management
+System and a Snake Game, and currently developing a full-stack eCommerce
+application. Seeking an opportunity to work as a Web Developer to gain handson experience with industry-level code and contribute to high-impact projects in
+a dynamic tech company.
+</p>
 <br clear="both">
 
 
