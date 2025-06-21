@@ -4,12 +4,7 @@
 
 
 <h2 align="left"># About Me</h2>
-<p align="left">Passionate and self-taught Web Developer with advanced skills in frontend and
-backend development, along with experience using Firebase as a database.
-Experienced in building real-world projects like an Employee Management
-System and a Snake Game, and currently developing a full-stack eCommerce
-application. Seeking an opportunity to work as a Web Developer to gain handson experience with industry-level code and contribute to high-impact projects in
-a dynamic tech company.
+<p align="left">Passionate and self-taught Web Developer with advanced skills in frontend and backend development, along with experience using Firebase as a database. Experienced in building real-world projects like an Employee Management System (EMS) and currently developing more full-stack project applications. Seeking an opportunity to work as a Web Developer to gain handson experience with industry-level code and contribute to high-impact projects in a dynamic tech company.
 </p>
 <br clear="both">
 
