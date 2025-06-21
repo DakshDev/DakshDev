@@ -49,25 +49,6 @@ a dynamic tech company.
 
 
 
-
-<h2 align="left"># My Socials</h2>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-</div>
-<br clear="both">
-
-
-
 <h2 align="left"># My analytics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
