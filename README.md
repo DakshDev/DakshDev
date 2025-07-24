@@ -12,7 +12,7 @@
 ### Technical Skills
 `Html` `Css` `JavaScript` `TypeScript` `React.js` `Next.js`<br/>
 `Redux-Toolkit` `Tailwind` `Bootstrap` `Node.js` `Express.js`<br />
-`Firestore` `Mongo (Learning)`
+`shandcn` `Firestore` `Mongo (Learning)`
 
 ### Tools and DevOps
 `Git Bash` `Docker` `Postman` `Vercel` `Netlify`
