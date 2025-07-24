@@ -10,7 +10,7 @@
 - Daily Ease App [Demo Link](https://github.com).
 
 ### My Skills
-`Html` `Css` `Tailwind` `Bootstrap` `JavaScript` `TypeScript`<br />
-`React.js` `Next.js` `Redux-Toolkit` `Node.js` `Express.js`<br />
-`APIs` `Firestore` `Mongo (Learning)` `Postman` `Git Bash`<br />
-`Docker` `Vercel `Git Bash` & Netlify`
+`Html` `Css` `JavaScript` `TypeScript` `React.js` `Next.js`<br/>
+`Redux-Toolkit` `Tailwind` `Bootstrap` `Node.js` `Express.js`<br />
+`Firestore` `Mongo (Learning)` `Postman` `APIs` `Git Bash`<br />
+`Docker` `Git` `Vercel` & Netlify`
