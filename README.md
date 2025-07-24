@@ -9,3 +9,6 @@
 - Full Stack E-commerce App [Link](https://github.com).
 - Daily Ease App [Link](https://github.com).
 
+### My Skills
+##### *Front End*
+`Tailwind` `Bootstrap` `Js` `React.js` `Next.js` `Redux-Toolkit`
