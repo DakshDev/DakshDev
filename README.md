@@ -12,4 +12,5 @@
 ### My Skills
 `Html` `Css` `Tailwind` `Bootstrap` `JavaScript` `TypeScript`<br />
 `React.js` `Next.js` `Redux-Toolkit` `Node.js` `Express.js`<br />
-`APIs` `Firestore` `Mongo (Learning)`
+`APIs` `Firestore` `Mongo (Learning)` `Postman` `Git Bash`<br />
+`Docker` `Vercel `Git Bash` & Netlify`
