@@ -5,9 +5,9 @@
 - I am open to new opportunities and collaborations where I can contribute my skills.
 
 ### Projects
-- Employee Management System [Link](https://github.com).
-- Full Stack E-commerce App [Link](https://github.com).
-- Daily Ease App [Link](https://github.com).
+- Employee Management System [Demo Link](https://github.com).
+- Full Stack E-commerce App [Demo Link](https://github.com).
+- Daily Ease App [Demo Link](https://github.com).
 
 ### My Skills
 `Html` `Css` `Tailwind` `Bootstrap` `JavaScript` `TypeScript`<br />
