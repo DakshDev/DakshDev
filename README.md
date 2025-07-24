@@ -10,9 +10,6 @@
 - Daily Ease App [Link](https://github.com).
 
 ### My Skills
-#### *Front End*
-`Html` `Css` `Tailwind` `Bootstrap` `JavaScript` `TypeScript` `React.js` `Next.js` `Redux-Toolkit`
-#### *Back End*
-`Node.js` `Express.js` `APIs`
-#### *Database*
-`Firestore` `Mongo (Learning)`
+`Html` `Css` `Tailwind` `Bootstrap` `JavaScript` `TypeScript`<br />
+`React.js` `Next.js` `Redux-Toolkit` `Node.js` `Express.js`<br />
+`APIs` `Firestore` `Mongo (Learning)`
