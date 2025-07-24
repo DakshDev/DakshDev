@@ -9,8 +9,10 @@
 - Full Stack E-commerce App [Demo Link](https://github.com).
 - Daily Ease App [Demo Link](https://github.com).
 
-### My Skills
+### Technical Skills
 `Html` `Css` `JavaScript` `TypeScript` `React.js` `Next.js`<br/>
 `Redux-Toolkit` `Tailwind` `Bootstrap` `Node.js` `Express.js`<br />
-`Firestore` `Mongo (Learning)` `Postman` `APIs` `Git Bash`<br />
-`Docker` `Git` `Vercel` & Netlify`
+`Firestore` `Mongo (Learning)`
+
+### Tools and DevOps
+`Git Bash` `Docker` `Postman` `Vercel` `Netlify`
