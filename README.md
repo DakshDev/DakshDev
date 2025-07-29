@@ -6,7 +6,7 @@
 
 ### Projects
 - Employee Management System [Demo Link](https://github.com).
-- Full Stack E-commerce App [Demo Link](https://github.com).
+- Full Stack E-commerce App [Demo Link](https://demo-store-iota-ruby.vercel.app/).
 - Daily Ease App [Demo Link](https://github.com).
 
 ### Technical Skills
