@@ -12,9 +12,9 @@
 ### Technical Skills
 `Html` `Css` `JavaScript` `TypeScript` `React.js` `Next.js`<br/>
 `Redux-Toolkit` `Tailwind` `Bootstrap` `Node.js` `Express.js`<br />
-`shandcn`  `Firestore` `MongoDV` `PostgreSQL` `Postman`<br />
+`shandcn`  `Firebase` `MongoDB` `PostgreSQL` `Postman`<br />
 
 
 ### Tools and DevOps
-`Git Bash` `Docker` `Postman` `Prisma ORM` `Cloudnary` `Vercel`<br />
+`Git` `Docker` `Postman` `Prisma ORM` `Cloudnary` `Vercel`<br />
 `Render` `Railway`
