@@ -5,9 +5,9 @@
 - I am open to new opportunities and collaborations where I can contribute my skills.
 
 ### Projects
-- Employee Management System [Demo Link](https://github.com).
-- Full Stack E-commerce App [Demo Link](https://demo-store-iota-ruby.vercel.app/).
-- Daily Ease App [Demo Link](https://github.com).
+- Employee Management System [Live Demo](https://ems-cloudbased.vercel.app/).
+- Food Ecommerce Store [Live Demo](https://demo-food-store.up.railway.app/).
+- Client Agency Website [Live Demo](https://www.brandwings.online/).
 
 ### Technical Skills
 `Html` `Css` `JavaScript` `TypeScript` `React.js` `Next.js`<br/>
