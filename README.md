@@ -5,15 +5,16 @@
 - I am open to new opportunities and collaborations where I can contribute my skills.
 
 ### Projects
-- Employee Management System [Live Demo](https://ems-cloudbased.vercel.app/).
 - Food Ecommerce Store [Live Demo](https://demo-food-store.up.railway.app/).
 - Client Agency Website [Live Demo](https://www.brandwings.online/).
+- Employee Management System [Live Demo](https://ems-cloudbased.vercel.app/).
 
 ### Technical Skills
 `Html` `Css` `JavaScript` `TypeScript` `React.js` `Next.js`<br/>
 `Redux-Toolkit` `Tailwind` `Bootstrap` `Node.js` `Express.js`<br />
-`shandcn` `Prisma ORM` `Firestore` `MongoDV` `PostgreSQL` `Postman`<br />
- `Cloudnary` `Node.js` `Express.js
+`shandcn`  `Firestore` `MongoDV` `PostgreSQL` `Postman`<br />
+
 
 ### Tools and DevOps
-`Git Bash` `Docker` `Postman` `Vercel` `Netlify`
+`Git Bash` `Docker` `Postman` `Prisma ORM` `Cloudnary` `Vercel`<br />
+`Render` `Railway`
