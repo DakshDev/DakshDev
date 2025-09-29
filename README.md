@@ -11,7 +11,7 @@
 ### Technical Skills
 `Html` `Css` `JavaScript` `TypeScript` `React.js` `Next.js`<br/>
 `Redux-Toolkit` `Tailwind` `Bootstrap` `Node.js` `Express.js`<br />
-`Redis` `shandcn` `MongoDB` `PostgreSQL` `Postman`<br />
+`Redis` `shandcn` `MongoDB` `PostgreSQL`<br />
 
 
 ### Tools and DevOps
