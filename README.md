@@ -16,4 +16,4 @@
 
 ### Tools and DevOps
 `Git` `Docker` `Postman` `Prisma ORM` `Firebase` `Supabase` `Cloudnary` `Vercel`<br />
-`Render` `Railway`
+`Render`
