@@ -1,6 +1,6 @@
 ### Hello & Welcome
-- Hi, I’m Daksh Kishore, Full-Stack Web Developer.
-- I enjoy solving problems and improving digital experiences.
+- Hi, I’m Daksh Kishore, Software Engineer.
+- I enjoy solving problems.
 - I am open to new opportunities and collaborations where I can contribute my skills.
 
 ### Projects
