@@ -8,11 +8,11 @@
 - Clients Website [Live Demo](https://dakshdev.vercel.app/).
 
 ### Technical Skills
-`Html` `Css` `JavaScript` `TypeScript` `React.js` `Next.js`<br/>
-`Redux-Toolkit` `Tailwind` `Bootstrap` `Node.js` `Express.js`<br />
-`Redis` `shandcn` `MongoDB` `PostgreSQL`<br />
+`html` `css` `javaScript` `typeScript` `reactJs` `nextJs`<br/>
+`redux Toolkit` `tanstack` `tailwind` `bootstrap` `nodeJs`<br />
+`expressJs` `nestJs` `redis` `mongoDB` `postgreSQL`<br />
 
 
 ### Tools and DevOps
-`AWS` `Git` `Docker` `Postman` `Prisma ORM` `Firebase` `Supabase` `Cloudnary`<br />
-`Vercel` `Render`
+`aws` `git` `docker` `postman` `prisma ORM` `firebase` `supabase` `cloudnary`<br />
+`vercel` `render` `shadcn` `MUI`
