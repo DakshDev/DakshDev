@@ -4,9 +4,8 @@
 - I am open to new opportunities and collaborations where I can contribute my skills.
 
 ### Projects
-- Food Ecommerce Store [Live Demo](https://demo-food-store.up.railway.app/).
-- Client Agency Website [Live Demo](https://www.brandwings.online/).
-- Employee Management System [Live Demo](https://ems-cloudbased.vercel.app/).
+- CCaaS [Live Demo](https://ccaas.bweeu.com/).
+- Clients Website [Live Demo](https://dakshdev.vercel.app/).
 
 ### Technical Skills
 `Html` `Css` `JavaScript` `TypeScript` `React.js` `Next.js`<br/>
@@ -15,5 +14,5 @@
 
 
 ### Tools and DevOps
-`Git` `Docker` `Postman` `Prisma ORM` `Firebase` `Supabase` `Cloudnary` `Vercel`<br />
-`Render`
+`AWS` `Git` `Docker` `Postman` `Prisma ORM` `Firebase` `Supabase` `Cloudnary`<br />
+`Vercel` `Render`
