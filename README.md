@@ -14,5 +14,5 @@
 
 
 ### Tools and DevOps
-`aws` `git` `docker` `postman` `prisma ORM` `firebase` `supabase` `cloudnary`<br />
-`vercel` `render` `shadcn` `MUI`
+`aws` `git` `docker` `postman` `prisma ORM` `firebase` `supabase`<br />
+`cloudnary` `vercel` `render` `shadcn` `MUI`
